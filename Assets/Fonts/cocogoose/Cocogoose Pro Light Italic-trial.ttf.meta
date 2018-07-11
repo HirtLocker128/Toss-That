@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a88a5873bcd2a7f4d8897b2ba2db5400
+timeCreated: 1522718898
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cocogoose Pro
+  fontNames:
+  - Cocogoose Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 868d94c3c4940cb468137160598206aa, type: 3}
+  - {fileID: 12800000, guid: 6928410e8d407f34e812cf145a1c3e19, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

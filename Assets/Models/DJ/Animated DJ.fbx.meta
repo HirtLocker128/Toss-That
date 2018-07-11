@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 3a39537b19b68c3408ce70c2ea07e3ec
+timeCreated: 1520442096
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DJ_Face_Rig_Test:autumn_casualman_04
+    100004: DJ_Face_Rig_Test:mixamorig:Head
+    100006: DJ_Face_Rig_Test:mixamorig:HeadTop_End
+    100008: DJ_Face_Rig_Test:mixamorig:Hips
+    100010: DJ_Face_Rig_Test:mixamorig:LeftArm
+    100012: DJ_Face_Rig_Test:mixamorig:LeftFoot
+    100014: DJ_Face_Rig_Test:mixamorig:LeftForeArm
+    100016: DJ_Face_Rig_Test:mixamorig:LeftHand
+    100018: DJ_Face_Rig_Test:mixamorig:LeftHandIndex1
+    100020: DJ_Face_Rig_Test:mixamorig:LeftHandIndex2
+    100022: DJ_Face_Rig_Test:mixamorig:LeftHandIndex3
+    100024: DJ_Face_Rig_Test:mixamorig:LeftHandIndex4
+    100026: DJ_Face_Rig_Test:mixamorig:LeftLeg
+    100028: DJ_Face_Rig_Test:mixamorig:LeftShoulder
+    100030: DJ_Face_Rig_Test:mixamorig:LeftToe_End
+    100032: DJ_Face_Rig_Test:mixamorig:LeftToeBase
+    100034: DJ_Face_Rig_Test:mixamorig:LeftUpLeg
+    100036: DJ_Face_Rig_Test:mixamorig:Neck
+    100038: DJ_Face_Rig_Test:mixamorig:RightArm
+    100040: DJ_Face_Rig_Test:mixamorig:RightFoot
+    100042: DJ_Face_Rig_Test:mixamorig:RightForeArm
+    100044: DJ_Face_Rig_Test:mixamorig:RightHand
+    100046: DJ_Face_Rig_Test:mixamorig:RightHandIndex1
+    100048: DJ_Face_Rig_Test:mixamorig:RightHandIndex2
+    100050: DJ_Face_Rig_Test:mixamorig:RightHandIndex3
+    100052: DJ_Face_Rig_Test:mixamorig:RightHandIndex4
+    100054: DJ_Face_Rig_Test:mixamorig:RightLeg
+    100056: DJ_Face_Rig_Test:mixamorig:RightShoulder
+    100058: DJ_Face_Rig_Test:mixamorig:RightToe_End
+    100060: DJ_Face_Rig_Test:mixamorig:RightToeBase
+    100062: DJ_Face_Rig_Test:mixamorig:RightUpLeg
+    100064: DJ_Face_Rig_Test:mixamorig:Spine
+    100066: DJ_Face_Rig_Test:mixamorig:Spine1
+    100068: DJ_Face_Rig_Test:mixamorig:Spine2
+    400000: //RootNode
+    400002: DJ_Face_Rig_Test:autumn_casualman_04
+    400004: DJ_Face_Rig_Test:mixamorig:Head
+    400006: DJ_Face_Rig_Test:mixamorig:HeadTop_End
+    400008: DJ_Face_Rig_Test:mixamorig:Hips
+    400010: DJ_Face_Rig_Test:mixamorig:LeftArm
+    400012: DJ_Face_Rig_Test:mixamorig:LeftFoot
+    400014: DJ_Face_Rig_Test:mixamorig:LeftForeArm
+    400016: DJ_Face_Rig_Test:mixamorig:LeftHand
+    400018: DJ_Face_Rig_Test:mixamorig:LeftHandIndex1
+    400020: DJ_Face_Rig_Test:mixamorig:LeftHandIndex2
+    400022: DJ_Face_Rig_Test:mixamorig:LeftHandIndex3
+    400024: DJ_Face_Rig_Test:mixamorig:LeftHandIndex4
+    400026: DJ_Face_Rig_Test:mixamorig:LeftLeg
+    400028: DJ_Face_Rig_Test:mixamorig:LeftShoulder
+    400030: DJ_Face_Rig_Test:mixamorig:LeftToe_End
+    400032: DJ_Face_Rig_Test:mixamorig:LeftToeBase
+    400034: DJ_Face_Rig_Test:mixamorig:LeftUpLeg
+    400036: DJ_Face_Rig_Test:mixamorig:Neck
+    400038: DJ_Face_Rig_Test:mixamorig:RightArm
+    400040: DJ_Face_Rig_Test:mixamorig:RightFoot
+    400042: DJ_Face_Rig_Test:mixamorig:RightForeArm
+    400044: DJ_Face_Rig_Test:mixamorig:RightHand
+    400046: DJ_Face_Rig_Test:mixamorig:RightHandIndex1
+    400048: DJ_Face_Rig_Test:mixamorig:RightHandIndex2
+    400050: DJ_Face_Rig_Test:mixamorig:RightHandIndex3
+    400052: DJ_Face_Rig_Test:mixamorig:RightHandIndex4
+    400054: DJ_Face_Rig_Test:mixamorig:RightLeg
+    400056: DJ_Face_Rig_Test:mixamorig:RightShoulder
+    400058: DJ_Face_Rig_Test:mixamorig:RightToe_End
+    400060: DJ_Face_Rig_Test:mixamorig:RightToeBase
+    400062: DJ_Face_Rig_Test:mixamorig:RightUpLeg
+    400064: DJ_Face_Rig_Test:mixamorig:Spine
+    400066: DJ_Face_Rig_Test:mixamorig:Spine1
+    400068: DJ_Face_Rig_Test:mixamorig:Spine2
+    4300000: DJ_Face_Rig_Test:autumn_casualman_04
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: DJ_Face_Rig_Test:autumn_casualman_04
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
