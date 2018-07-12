@@ -4003,7 +4003,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.48125002, y: 0.47333336}
   m_AnchorMax: {x: 0.48125002, y: 0.47333336}
-  m_AnchoredPosition: {x: -26.414078, y: -4.086282}
+  m_AnchoredPosition: {x: -26.414078, y: -4.086281}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1234884261
@@ -4079,7 +4079,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 187.95001, y: -16.699898}
+  m_AnchoredPosition: {x: 187.95, y: -16.699898}
   m_SizeDelta: {x: -14.100006, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1253681988
@@ -6075,6 +6075,7 @@ GameObject:
   - component: {fileID: 1902246709}
   - component: {fileID: 1902246708}
   - component: {fileID: 1902246707}
+  - component: {fileID: 1902246712}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -6157,6 +6158,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 21.406, y: 0, z: 0}
+--- !u!114 &1902246712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1902246706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff26db721962cdf4a8edcdfa9a767d2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  profile: {fileID: 11400000, guid: d4d4a65e15f6d5f4f90a5378928850f2, type: 2}
 --- !u!1 &1932833271
 GameObject:
   m_ObjectHideFlags: 0
@@ -7460,13 +7473,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2102961625}
-  m_LocalRotation: {x: -0.33173472, y: 0.10410478, z: -0.20269875, w: -0.9154385}
+  m_LocalRotation: {x: -0.3745592, y: 0.2797876, z: -0.15455487, w: -0.8703661}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 29
-  m_LocalEulerAnglesHint: {x: 40.509003, y: -4.2330003, z: 383.408}
+  m_LocalEulerAnglesHint: {x: 47.603, y: -33.409, z: 365.058}
 --- !u!1001 &2128216328
 Prefab:
   m_ObjectHideFlags: 0

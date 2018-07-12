@@ -5695,6 +5695,7 @@ GameObject:
   - component: {fileID: 1902246709}
   - component: {fileID: 1902246708}
   - component: {fileID: 1902246707}
+  - component: {fileID: 1902246712}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -5777,6 +5778,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 24.562, y: 4.458, z: -0.492}
+--- !u!114 &1902246712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1902246706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff26db721962cdf4a8edcdfa9a767d2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  profile: {fileID: 11400000, guid: 6e1f9f475e895a54ca435f924d4c14ad, type: 2}
 --- !u!1 &1903017950
 GameObject:
   m_ObjectHideFlags: 0
@@ -6991,8 +7004,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 1
-  m_Color: {r: 0.6691177, g: 0.6691177, b: 0.6691177, a: 1}
-  m_Intensity: 0.7
+  m_Color: {r: 0.9338235, g: 0.6528241, b: 0.048064437, a: 1}
+  m_Intensity: 0.82
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -7011,7 +7024,7 @@ Light:
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_Lightmapping: 2
+  m_Lightmapping: 4
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 4.25
   m_FalloffTable:
@@ -7038,13 +7051,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2102961625}
-  m_LocalRotation: {x: -0.33173472, y: 0.10410478, z: -0.20269875, w: -0.9154385}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalRotation: {x: -0.46364257, y: 0.22501245, z: -0.17725676, w: -0.8384421}
+  m_LocalPosition: {x: -0.71, y: 6.69, z: -1.47}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 29
-  m_LocalEulerAnglesHint: {x: 40.509003, y: -4.2330003, z: 383.408}
+  m_LocalEulerAnglesHint: {x: 59.009003, y: -24.429, z: 369.907}
 --- !u!1 &2120960514 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 100000, guid: cba8d0acc0389734fa903455dcbe271b, type: 3}
