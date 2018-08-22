@@ -11,12 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Gameplay Scenes/KitchenScene.unity
     guid: abb08db8397afba4eb76a71d3d98dc83
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Gameplay Scenes/BarScene.unity
     guid: a15a45989f4ce2f4a8b8c25153f74a72
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Gameplay Scenes/DJ_Scene.unity
     guid: 90a0b6b8bb92b9e439ee3be35c87281f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Gameplay Scenes/RestaurantScene.unity
     guid: 8099d685538611d46af8468f2f71a29e

@@ -32,7 +32,7 @@ RenderSettings:
   m_FlareFadeSpeed: 3
   m_HaloTexture: {fileID: 0}
   m_SpotCookie: {fileID: 10001, guid: 0000000000000000e000000000000000, type: 0}
-  m_DefaultReflectionMode: 0
+  m_DefaultReflectionMode: 1
   m_DefaultReflectionResolution: 128
   m_ReflectionBounces: 1
   m_ReflectionIntensity: 1
@@ -178,7 +178,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: fb15b474e0a5a8e4fab5531eee5251e2, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: fb15b474e0a5a8e4fab5531eee5251e2, type: 3}
@@ -1535,7 +1535,7 @@ Light:
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_Lightmapping: 2
+  m_Lightmapping: 4
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
   m_FalloffTable:
@@ -5670,7 +5670,7 @@ Light:
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_Lightmapping: 2
+  m_Lightmapping: 4
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
   m_FalloffTable:
@@ -6731,7 +6731,7 @@ Light:
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_Lightmapping: 2
+  m_Lightmapping: 4
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
   m_FalloffTable:
@@ -7404,7 +7404,7 @@ Light:
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_Lightmapping: 2
+  m_Lightmapping: 4
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
   m_FalloffTable:
@@ -8369,6 +8369,7 @@ GameObject:
   - component: {fileID: 1902246709}
   - component: {fileID: 1902246708}
   - component: {fileID: 1902246707}
+  - component: {fileID: 1902246712}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -8451,6 +8452,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 28.209002, y: 0, z: 0}
+--- !u!114 &1902246712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1902246706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff26db721962cdf4a8edcdfa9a767d2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  profile: {fileID: 11400000, guid: adae46aa545ed454c9faf7061c62fa67, type: 2}
 --- !u!1 &1932833271
 GameObject:
   m_ObjectHideFlags: 0
@@ -9264,7 +9277,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!108 &2102961626
 Light:
   m_ObjectHideFlags: 0
@@ -9274,8 +9287,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 1
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1.3
+  m_Color: {r: 0.9117647, g: 0.57387537, b: 0.06704153, a: 1}
+  m_Intensity: 0.24
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -9294,7 +9307,7 @@ Light:
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_Lightmapping: 2
+  m_Lightmapping: 4
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
   m_FalloffTable:
@@ -9321,13 +9334,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2102961625}
-  m_LocalRotation: {x: -0.33173472, y: 0.10410478, z: -0.20269875, w: -0.9154385}
+  m_LocalRotation: {x: -0.346331, y: 0.2622043, z: -0.13821349, w: -0.89005667}
   m_LocalPosition: {x: 0, y: 9.36, z: -2.16}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 30
-  m_LocalEulerAnglesHint: {x: 40.509003, y: -4.2330003, z: 383.408}
+  m_LocalEulerAnglesHint: {x: 43.550003, y: -30.791002, z: 365.099}
 --- !u!1 &2125693932
 GameObject:
   m_ObjectHideFlags: 0
