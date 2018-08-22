@@ -8,10 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Gameplay Scenes/mainMenu.unity
     guid: 5986e76a9d3e1974980eabdf7c9e52bf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Gameplay Scenes/KitchenScene.unity
     guid: abb08db8397afba4eb76a71d3d98dc83
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Gameplay Scenes/BarScene.unity
     guid: a15a45989f4ce2f4a8b8c25153f74a72
   - enabled: 0
